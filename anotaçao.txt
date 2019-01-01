@@ -1,0 +1,15 @@
+// -              divisao inteira
+% -               resto da divisao inteira
+int() -           converter
+len() -           comprimento string
+
+
+
+if condiçao:
+ comando
+ comando
+ comando      (mesma indentaça)
+
+else:
+  comando
+  comando
