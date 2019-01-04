@@ -13,3 +13,9 @@ if condiçao:
 else:
   comando
   comando
+
+
+while condiçao:
+  comando
+  comando
+  
