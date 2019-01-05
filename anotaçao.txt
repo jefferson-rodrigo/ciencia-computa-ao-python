@@ -20,7 +20,7 @@ while condiçao:
   comando
 
 
-def soma (x, y):
+def soma (x, y):     função
   comando
   comando
   return
