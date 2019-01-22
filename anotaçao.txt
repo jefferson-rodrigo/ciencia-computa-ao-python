@@ -24,3 +24,33 @@ def soma (x, y):     função
   comando
   comando
   return
+
+
+
+for item in lista:
+  comando
+
+for i in range(fim):
+  comando
+for i in range(ini, fim):
+  coma
+
+for i in range(ini, fim, passo):
+  comando
+
+lista[ini:fim]
+
+lista1 = lista2  -->  variavel por referencia
+lista1 = lista2[:]  --> cria nova lista
+
++ concatenar
+* concatenar varias veses
+
+del lista[1:5]     apagar elemento na posiçao de 1 a 5
+
+a is c   --> os dois estao apontando pro mesmo objeto
+
+a == c    ---> o conteudo e o mesmo
+
+
+matriz[][]
